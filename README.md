@@ -1,3 +1,4 @@
+
 # miRNA Re-Identification Project (GSE68951)
 
 This project performs data extraction, preprocessing, and patient re-identification using miRNA expression profiles from the GEO dataset **GSE68951**.  
@@ -5,7 +6,7 @@ Group-based train/test splitting is applied to ensure that the same patient neve
 
 ---
 
-## 🚀 Environment Setup (One-Liner)
+##  Environment Setup (One-Liner)
 
 ### macOS / Linux:
 
@@ -36,3 +37,6 @@ This command installs all dependencies and registers the virtual environment as 
 ##  Project Structure
 
 
+=======
+# ki-al-miRNA-attack
+>>>>>>> f104c4d93e185814f2c16de4471a407a59ceb4d8
