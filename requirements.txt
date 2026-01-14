@@ -15,4 +15,5 @@ scikit-learn==1.5.2
 ipykernel==6.29.4
 jupyter==1.0.0
 tensorflow==2.15.1
+matplotlib==
 
