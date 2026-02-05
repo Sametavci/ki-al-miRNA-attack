@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a Siamese Network for patient re-identification using miRNA gene expression profiles from the GSE68951 dataset. The goal is to simulate an attack scenario where leaked miRNA profiles are used to identify unknown profiles from the same patients, based on multiple timepoints. Due to technical problems I had to create a new repo to push the project.
+This project implements a Siamese Network for patient re-identification using miRNA gene expression profiles from the GSE68951 dataset. The goal is to simulate an attack scenario where leaked miRNA profiles are used to identify unknown profiles from the same patients, based on multiple timepoints.
 
 - **Key Features**:
   - Data preprocessing (standardization, label encoding).
@@ -31,7 +31,7 @@ This project demonstrates the "advanced" part of the assignment by using a Siame
 ## Installation &  How to Run
 1. Clone the repository  
     ```bash
-   git clone {REPOEKLE}
+   git clone https://github.com/Sametavci/ki-al-miRNA-attack.git
    cd ki-al-miRNA-attack
     ```
 2. Create and activate a virtual environment (optional but recommended):
@@ -52,10 +52,6 @@ This project demonstrates the "advanced" part of the assignment by using a Siame
 4. To open in your browser with jupyter lab: 
     ```bash
     jupyter lab
-    ```
-5. Open in your browser: 
-    ```md
-    http://localhost:8080
     ```
 
 ## Download the dataset (automatically handled via GEOparse in the code).
@@ -107,6 +103,6 @@ This project demonstrates the "advanced" part of the assignment by using a Siame
 MIT License. See LICENSE file for details.
 
 ## Author
-**Cihan Can** **Bekir Mortas**  **Samet Avci**  
+**Cihan Can**, **Bekir Mortas**, **Samet Avci**  
 - Dataset: GSE68951 from GEO.
 - Inspired by assignment on miRNA re-identification attacks.
