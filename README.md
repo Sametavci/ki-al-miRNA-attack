@@ -53,6 +53,10 @@ This project demonstrates the "advanced" part of the assignment by using a Siame
     ```bash
     jupyter lab
     ```
+    4. In Jupyter Lab choose the kernel As: 
+    ```bash
+    mirna-gpu(TF 2.13 + GPU)
+    ```
 
 ## Download the dataset (automatically handled via GEOparse in the code).
 
@@ -106,3 +110,4 @@ MIT License. See LICENSE file for details.
 **Cihan Can**, **Bekir Mortas**, **Samet Avci**  
 - Dataset: GSE68951 from GEO.
 - Inspired by assignment on miRNA re-identification attacks.
+
